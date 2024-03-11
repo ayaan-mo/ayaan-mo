@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayaan-mo.
+- 👋 Hi, I’m @ayaan-mo Computer Science student at York University.
 - 👀 I’m interested in Software Development and Blockchain.
 - 🌱 I’m currently learning Solidity.
 

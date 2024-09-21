@@ -1,4 +1,4 @@
-Hi there, I'm Ayaan! 👋
+### Hi there, I'm Ayaan! 👋
 
 ⚡ I'm currently a Computer Science Student at York University, with a passion for building projects!
 

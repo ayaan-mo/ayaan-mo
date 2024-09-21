@@ -15,4 +15,8 @@ You can click the Preview link to take a look at your changes.
 ## 📨 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaan-mo/)
 
+
+Are you a recruiter? Email me to access my private repositories!
+Email: ayaan06@my.yorku.ca
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

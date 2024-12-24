@@ -1,4 +1,4 @@
-### Hi there, I'm Ayaan! 👋
+### 👋 Hi there, I'm Ayaan! 
 
 - ⚡ I'm currently a third-year Computer Science Student @ York University, with a passion for building projects!
 - 👨‍💻 I love exploring new projects, frameworks & languages. Feel free to browse around at my previous work or message me to collaborate!
